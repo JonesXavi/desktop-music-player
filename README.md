@@ -26,7 +26,7 @@ Electron should be installed globally. ```npm i -g electron```
 4. Do ```npm run start``` for a dev server. Navigate to ```http://localhost:4200/``` in the browser and the app will be ready.
 5. Do ```npm run electron``` to open as a desktop app.
 
-## <TODO>
+## TODO
 
 * Search Functionality
 * Unit test cases
